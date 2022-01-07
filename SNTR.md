@@ -11,7 +11,8 @@ Solana
 一个具有
 DApps Store 
 和通用流动
-性协议的一体化 Solana 开放平台； 完全成为 DeFi 开发人员和用户的避风港。 Sentre 包括：Sen OS - DApps 的开放平台：开发者和合作
+性协议的一
+体化 Solana 开放平台； 完全成为 DeFi 开发人员和用户的避风港。 Sentre 包括：Sen OS - DApps 的开放平台：开发者和合作
 伙伴
 可以通过
 Sen Store 
