@@ -16,7 +16,8 @@ DApps Store
 开放平台； 
 完全成为 
 DeFi 开发
-人员和用户的避风港。 Sentre 包括：Sen OS - DApps 的开放平台：开发者和合作
+人员和用
+户的避风港。 Sentre 包括：Sen OS - DApps 的开放平台：开发者和合作
 伙伴
 可以通过
 Sen Store 
