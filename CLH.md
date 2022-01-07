@@ -1,7 +1,8 @@
 # ClearDAO
 ClearDAO 正在
 通过构建可
-定制衍生品的基础设
+定制衍生品的
+基础设
 施来应对 DeFi 衍生
 品领域。Clear SDK
 提供的模板
