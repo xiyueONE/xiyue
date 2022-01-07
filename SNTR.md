@@ -21,7 +21,8 @@ DeFi 开发
 港。 Sentre 
 包括：Sen OS 
 - DApps 的开
-- 放平台：开发者和合作
+- 放平台：开
+- 发者和合作
 伙伴
 可以通过
 Sen Store 
