@@ -5,7 +5,8 @@ Sentre 是
 建立在
 Solana 
 上的开放流动性
-协议。我们的愿景是创建一个具有 DApps Store 和通用流动性协议的一体化 Solana 开放平台； 完全成为 DeFi 开发人员和用户的避风港。 Sentre 包括：Sen OS - DApps 的开放平台：开发者和合作
+协议。我们
+的愿景是创建一个具有 DApps Store 和通用流动性协议的一体化 Solana 开放平台； 完全成为 DeFi 开发人员和用户的避风港。 Sentre 包括：Sen OS - DApps 的开放平台：开发者和合作
 伙伴
 可以通过
 Sen Store 
