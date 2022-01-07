@@ -20,7 +20,8 @@ DeFi 开发
 户的避风
 港。 Sentre 
 包括：Sen OS 
-- DApps 的开放平台：开发者和合作
+- DApps 的开
+- 放平台：开发者和合作
 伙伴
 可以通过
 Sen Store 
