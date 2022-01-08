@@ -6,7 +6,7 @@ Operon Origins 是第一款基于 NFT 卡牌的格斗游戏，其 Epic 艺术风
 
 项目介绍
 Startup项目甄选区项目情况介绍
-1.Operon Origins介绍：
+1.Operon Origins介绍
 Operon Origins 是第一款基于 NFT 卡牌的格斗游戏，其 Epic 艺风格突破了 NFT 竞技游戏的界限。 这是一个让所有类型的玩家通过游戏和卡角色的创新功能体验不同世界的机会。
 
 2.Operon Origins项目基本信息：（按照Operon Origins官方信息披露，详情请关注Operon Origins官方网站）
